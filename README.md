@@ -17,7 +17,7 @@
 
 
 - :seedling: Завершил курсы по веб-разработке Хекслет!
-[Скачать сертификат](/assets/Georgy%20Komkov%20JS%20Ru%20(1).pdf)
+[![Сертификат](/assets/Georgy_Komkov_JS_Ru_Certificate.png)](/assets/Georgy_Komkov_JS_Ru.pdf)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgyKomkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](komkov.georgy@gmail.com)
 
