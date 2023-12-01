@@ -14,7 +14,7 @@
 
 - [Скачать Сертификат](https://github.com/GeorgyKomkov/GeorgyKomkov/raw/main/asserts/Georgy%20Komkov%20JS%20Ru%20(1).pdf)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgyKomkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](komkov.georgy@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-GeorgyKomkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgyKomkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](komkov.georgy@gmail.com)
 
 ---
 
