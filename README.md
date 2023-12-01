@@ -1,9 +1,9 @@
 # Привет, меня зовут Георгий!
 
 ---
-<p align="center">
- <img width="400" src="/asserts/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="js"/>
-</p>
+
+ <img width="width: 100%;"  src="/asserts/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="js"/>
+
 
 ### :man_technologist: Обо мне:
 Привет, я начинающий веб-разработчик,<p align="center">
