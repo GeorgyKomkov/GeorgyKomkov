@@ -2,9 +2,7 @@
 
 ---
 
- <div style="height: 200px;">
-  <img style="width: 100%; height: 50%;" src="/asserts/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="js"/>
-</div>
+ <img style="width: 100%; height: 50px;" src="/asserts/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="js"/>
 
 
 ### :man_technologist: Обо мне:
