@@ -28,7 +28,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
      <a href="https://www.instagram.com/gosha_komkov/?next=%2F" target="_blank">
-      <img src="(https://github.com/GeorgyKomkov/GeorgyKomkov/raw/main/asserts/instagram.png" width="40" height="40" alt="instagram Badge"/>
+      <img src="https://github.com/GeorgyKomkov/GeorgyKomkov/raw/main/asserts/instagram.png" width="40" height="40" alt="instagram Badge"/>
     </a>
   </div>
 
