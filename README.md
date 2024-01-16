@@ -27,6 +27,9 @@
     <a href="https://vk.com/georgykomkov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+     <a href="https://www.instagram.com/gosha_komkov/?next=%2F" target="_blank">
+      <img src="(https://github.com/GeorgyKomkov/GeorgyKomkov/raw/main/asserts/instagram.png" width="40" height="40" alt="instagram Badge"/>
+    </a>
   </div>
 
 ---
@@ -41,13 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 🛠 Инструменты:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
